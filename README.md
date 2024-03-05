@@ -12,36 +12,40 @@
 
 1. **Skills Analysis**:
     
-    - Current skills:  * HTML
-                       * CSS (tailwind and Bootstrap)
-                       * JavaScript basic's
-                       * Git and Github
-                       * Team player
-                       * Communications
-                       * Report writing
-                       * Problem solving skill's
+    - Current skills:
+          * HTML
+          * CSS (tailwind and Bootstrap)
+          * JavaScript basic's
+          * Git and Github
+          * Team player
+          * Communications
+          * Report writing
+          * Problem solving skill's
                       
-    - Skills to develop or improve: * Advanced JavaScript
-                                    * React framework
-                                    * Node.js
-                                    * MongoDB & mySQL
-                                    * One of the cloud services, either AWS or Azure
-                                    * Another language C# or C++ and also python
-                                    * Time management
+    - Skills to develop or improve:
+          * Advanced JavaScript
+          * React framework
+          * Node.js
+          * MongoDB & mySQL
+          * One of the cloud services, either AWS or Azure
+          * Another language C# or C++ and also python
+          * Time management
   
 
       
 2. **Interests and Values**:
     
-    - Interest: * I am interested in being able to develop interesting functional website and apps which can keep consumers coming back to them.
-                * I am interested in being able to work in dynamic project's that allow me to grow in my expertise and keeping me on the egde of allowing me to learn more about the technologies in the industry.
-                * I am interested in being able to create something out of an idea provided by designer's and idea's brainstormed as a team or individual.
+    - Interest:
+          * I am interested in being able to develop interesting functional website and apps which can keep consumers coming back to them.
+          * I am interested in being able to work in dynamic project's that allow me to grow in my expertise and keeping me on the egde of allowing me to learn more about the technologies in the industry.
+          * I am interested in being able to create something out of an idea provided by designer's and idea's brainstormed as a team or individual.
       
-    - Values are important in a work environment: * An open, dynamic team.
-                                                  * A healthy relationship amongs collegues and managements.
-                                                  * An environment that allow's progress for growth.
-                                                  * An environment that provides opportunities for skill development and training.
-                                                  * An environment that provides team building exercises.
+    - Values are important in a work environment:
+          * An open, dynamic team.
+          * A healthy relationship amongs collegues and managements.
+          * An environment that allow's progress for growth.
+          * An environment that provides opportunities for skill development and training.
+          * An environment that provides team building exercises.
 
 ### Part 2: Career Exploration Insights
 
