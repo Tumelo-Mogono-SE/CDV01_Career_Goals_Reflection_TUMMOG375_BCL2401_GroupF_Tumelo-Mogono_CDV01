@@ -16,17 +16,23 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:**Tumelo Mogono
+- **Date:**05/03/2024
+- **Current Role/Position:**Software Development Student
+- **Field of Interest:**Full Stack Developer
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Current skills:  - HTML
+                       - CSS
+                       - JavaScript basic's
+                       - Team player
+                       - Communications
+                       - Report writing
+                      
+    - Skillsto develop or improve
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
