@@ -13,14 +13,14 @@
 1. **Skills Analysis**:
     
     - Current skills:
-          * HTML
-          * CSS (tailwind and Bootstrap)
-          * JavaScript basic's
-          * Git and Github
-          * Team player
-          * Communications
-          * Report writing
-          * Problem solving skill's
+          - HTML
+          - CSS (tailwind and Bootstrap)
+          - JavaScript basic's
+          - Git and Github
+          - Team player
+          - Communications
+          - Report writing
+          - Problem solving skill's
                       
     - Skills to develop or improve:
           * Advanced JavaScript
